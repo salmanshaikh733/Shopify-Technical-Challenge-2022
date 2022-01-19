@@ -12,7 +12,7 @@ In the project directory, you can run using command prompt:
 
 Before running node modules must installed run
 
-### `npm install` in terminal
+### `npm install` in terminal or command prompt
 
 ### `npm start`
 
