@@ -82,9 +82,9 @@ Edition. [Intellij Community Edition](https://www.jetbrains.com/idea/download/#s
 
 <img src="readmeImages/Step2.png"> 
 
-Now in the URL section highlighted in red put the GitHub URL to the backend project.
+Now in the URL section highlighted in red put the following GitHub URL to clone the backend project.
 
-* https://github.com/salmanshaikh733/shopify_backend_challenge.git
+* https://github.com/salmanshaikh733/Shopify-Technical-Challenge2022-BackEnd.git 
 
 Next hit clone and the project should open, wait for the IDE to index the code and for maven to load the pom.
 
